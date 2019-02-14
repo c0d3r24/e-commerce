@@ -22,7 +22,7 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 ## Details
 ### server
 - server.js : set-up the server using express.
-- routes/productRoute : specifies two endpoint that inturn fetch data from provided URI.
+- routes/productRoute : specifies two endpoints that in-turn fetch data from provided URI.
 - dev-dependencies : ['concurrently']
 - dependencies: ['express', 'axios']
 
