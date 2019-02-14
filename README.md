@@ -4,7 +4,7 @@ E-commerce
 Build with Node.js and React.js
 
 ## Preview
-![gif preview](https://github.com/c0d3r24/SaveMeSomeSpace/blob/master/initialUI.gif)
+![gif preview](https://github.com/c0d3r24/e-commerce/blob/master/intialUI.gif)
 
 
 ## Available Scripts
